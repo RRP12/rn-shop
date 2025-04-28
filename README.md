@@ -24,3 +24,4 @@ bun install # or remove the bun.lock file and use a different package manager
 ```
 # rn-shop
 # rn-shop
+# rn-shop
