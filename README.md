@@ -22,3 +22,4 @@ cd my-app
 cd my-app && rm -rf .git && git init && git add . && git commit -m "Initial commit"
 bun install # or remove the bun.lock file and use a different package manager
 ```
+# rn-shop
